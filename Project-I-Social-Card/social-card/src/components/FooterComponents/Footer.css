@@ -1,0 +1,11 @@
+footer {
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 50px;
+}
+
+.icon {
+  color: grey;
+  padding: 10px 30px 10px 0px;
+  margin: 10px 30px 10px 0px;
+}
