@@ -50,7 +50,7 @@
 
 [x] Create a `<CardContent />` component that displays the card copy provided.
 
-- The entire `<CardContainer />` should take a user to `https://www.reactjs.org` when clicked.
+[x] The entire `<CardContainer />` should take a user to `https://www.reactjs.org` when clicked.
 
 #### Project 1 Stretch Problems
 
