@@ -4,7 +4,7 @@ import "./Header.css";
 const HeaderContent = () => {
   return (
     <p className="header-content">
-      Let's learn React by building simple itnerfaces with components. DOn't try
+      Let's learn React by building simple interfaces with components. DOn't try
       to overthink it, just keep it simple and have fun. Once you feel
       comfortable using components you are well on your way to mastering React!
     </p>

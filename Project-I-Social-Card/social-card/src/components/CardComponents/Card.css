@@ -4,6 +4,7 @@
   display: flex;
   flex-direction: column;
   align-items: flex-end;
+  font-size: 0.7rem;
 }
 
 .card-banner {
@@ -25,14 +26,15 @@
   border-bottom: 1px solid lightgrey;
   border-radius: 0px 0px 5px 5px;
   margin-right: 5px;
+  margin-top: 5px;
 }
 
 h3 {
-  padding: 2.5px;
+  padding: 0 5px;
 }
 
 p {
-  padding: 2.5px;
+  padding: 5px;
 }
 
 address {

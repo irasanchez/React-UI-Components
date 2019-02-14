@@ -5,10 +5,10 @@ import CardContent from "./CardContent";
 
 const CardContainer = () => {
   return (
-    <card className="card-container">
+    <section className="card-container">
       <CardBanner />
       <CardContent />
-    </card>
+    </section>
   );
 };
 
